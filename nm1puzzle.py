@@ -1,3 +1,5 @@
+#8パズルを解く（n*m-1パズルを解くことを目指したが、現実的な時間で解けるのはせいぜい4*4の正方形くらいまでに限られる）
+
 import math
 import random
 import heapq
